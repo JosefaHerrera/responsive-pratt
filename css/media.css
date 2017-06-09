@@ -1,0 +1,8 @@
+
+/*al momento de que la pantalla este screen , aparecera el texto.
+ si la pantalla es más hancha a la medida especifica, el texto desaparecera*/
+@media screen and (min-width: 769px) {
+    .oculto-only-mobile {
+        display: none
+    }
+}

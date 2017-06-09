@@ -16,7 +16,13 @@ body{
 	color:#FFF;
 	font-size:70px;
 }
+.text-white{
+	color:white;
+}
 
+.app{
+	margin-bottom: 100px;
+}
 /*SECCION 2*/
 
 .section-two{
@@ -32,4 +38,78 @@ body{
 
 .designed{
 	    padding-top: 2em;
+}
+
+hr {
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+.verde-section-2{
+	color:#40E0D0;
+	padding-top: 10px;
+}
+
+/*SECCION 3*/
+.section-third{
+	background-color: #33485c;
+	height: 100%;
+}
+.img-pc-human{
+	margin-bottom: 100px;
+}
+.section-third h3 {
+    padding-top: 3em;
+    color: white;
+    font-size: 39px;
+}
+
+
+/*SECCION 4*/
+
+.section-four{
+	background-color: #2E2E2E;
+	width: 100%;
+	color: white;
+}
+
+.title-four {
+    margin-top: 50px;
+}
+
+.input-general {
+    width: 100%;
+}
+
+.input-texto {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.btn {
+    margin-bottom: 100px;
+    background-color: #56ba56;
+    border-style: none;
+    color: white;
+}
+
+/* footer */
+
+footer {
+    background-color: #212121;
+    padding: 25px;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+.footer-span {
+    color: #1d5742
+}
+/**/
+.oculto-only-mobile{
+	color: white;
 }
