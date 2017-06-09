@@ -39,7 +39,11 @@ body{
 .designed{
 	    padding-top: 2em;
 }
-
+/*LÍNEAS SEPARADORAS. SEPARADORES EN HTML: ETIQUETA <HR>
+Para separar un texto de otro o un párrafo de otro podemos utilizar una 
+línea horizontal de un tamaño o un grosor determinado por nosotros.
+ Este separador lo escribimos con la etiqueta <hr>. 
+ Al contrario que muchas etiquetas HTML, ésta no necesita ser cerrada.*/
 hr {
     height: 1px;
     border: 0;
