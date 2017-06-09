@@ -1,0 +1,35 @@
+body{
+	padding: 0;
+	margin:0;
+	overflow-x: hidden;
+	font-family: 'Raleway', sans-serif;
+}
+
+/*SECCION 1*/
+.section-one{
+	background-color: #33485c;
+	height: 100%;
+}
+
+.section-one h1{
+	padding-top:2em;
+	color:#FFF;
+	font-size:70px;
+}
+
+/*SECCION 2*/
+
+.section-two{
+	background-color: #f7f7f7;
+	height: 100%;
+}
+
+.section-two h2 {
+    padding-top: 1em;
+    color: black;
+    font-size: 39px;
+}
+
+.designed{
+	    padding-top: 2em;
+}
